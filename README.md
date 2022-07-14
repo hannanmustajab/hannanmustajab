@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**hannanmustajab/hannanmustajab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm a Master's student at University of Genoa, Italy. I study Computer Science (Artificial Intelligence).
 
-Here are some ideas to get you started:
+##### NOW
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ✨ Crafted last [Laracon Online](https://laracon.net) website;
+- 🇵🇹 Planing the "Tuga-Co-Op";
+- 🍑 What about this?
+
+##### BIO
+
+- 🏢 I'm currently working at **Kumva IoT**
+- ⚙️ I use daily: `.py`, `.c`, `.ino`
+- 🌍 I'm mostly active within the **Particle IoT Community**
+- 🌱 Learning all about **IoT, Machine Learning, Graph Neural Networks**
+- 💬 Ping me about stuff related to  **Django, Flask **, **Python**, **IoT**, **NoSQL**, **API Development**
+- 📫 Reach me: [twitter.com/mustajabhannan](https://twitter.com/mustajabhannan)
+- ⚡️ Fun fact: I'm a huge fan of James Bond. 
+- To hire me, drop me an email at : [mail](hannanmustajab@icloud.com)
