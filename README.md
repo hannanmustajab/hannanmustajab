@@ -4,7 +4,8 @@
 
 ##### NOW
 
-- ✨ Building remote monitoring systems in Africa, studying and traveling across Europe. 
+- Writing my masters thesis at CAU, Germany in Physics informed Neural Networks.
+-  ✨ Building remote monitoring systems in Africa, studying and traveling across Europe. 
 - 🇮🇹
 
 
