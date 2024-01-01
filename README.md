@@ -1,21 +1,20 @@
 ### Hi there 👋
 
-#### I'm a Master's student at University of Genoa, Italy. I study Computer Science (Artificial Intelligence).
+#### I'm a Master's student at the University of Genoa, Italy, studying Computer Science with a focus on Artificial Intelligence.
 
 ##### NOW
 
-- Writing my masters thesis at CAU, Germany in Physics informed Neural Networks.
--  ✨ Building remote monitoring systems in Africa, studying and traveling across Europe. 
+- Currently writing my master's thesis at the Institute of Geosciences, University of Kiel, Germany, exploring Physics-Informed Neural Networks (PINNs) and 2D wave simulation.
+- 🌐 Actively involved in Scientific Machine Learning, particularly in the field of geosciences.
+- 💻 Working on projects related to Graph Neural Networks and diving into the world of DevOps with Docker and Ansible.
 - 🇮🇹
-
 
 ##### BIO
 
-- 🏢 I'm currently working at **Kumva IoT**
-- ⚙️ I use daily: `.py`, `.c`, `.ino`
-- 🌍 I'm mostly active within the **Particle IoT Community**
-- 🌱 Learning all about **IoT, Machine Learning, Graph Neural Networks**
-- 💬 Ping me about stuff related to  **Django,Flask**, **Python**, **IoT**, **NoSQL**, **API Development**
-- 📫 Reach me: [twitter.com/mustajabhannan](https://twitter.com/mustajabhannan)
-- ⚡️ Fun fact: I'm a huge fan of James Bond. 
-- To hire me, drop me an email at : [mail](hannanmustajab@icloud.com)
+- 🏢 Employed at **Kumva IoT**
+- ⚙️ Daily languages: `.py`, `.c`, `.ino`
+- 🌱 Passionate about **IoT, Machine Learning, Graph Neural Networks**, and DevOps.
+- 💬 Let's chat about anything related to **Django, Flask, Python, IoT, NoSQL, API Development**.
+- 📫 Connect with me on Twitter: [twitter.com/mustajabhannan](https://twitter.com/mustajabhannan)
+- ⚡️ Fun fact: I'm a devoted James Bond fan.
+- 📧 To discuss opportunities, drop me an email at: [hannanmustajab@icloud.com](mailto:hannanmustajab@icloud.com)
