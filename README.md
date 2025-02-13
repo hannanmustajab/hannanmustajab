@@ -1,20 +1,31 @@
 ### Hi there 👋
 
-#### I'm a Master's student at the University of Genoa, Italy, studying Computer Science with a focus on Artificial Intelligence.
+#### Doctoral Researcher in Computational Geophysics at the University of Kiel, Germany 🎓
 
 ##### NOW
-
-- Currently writing my master's thesis at the Institute of Geosciences, University of Kiel, Germany, exploring Physics-Informed Neural Networks (PINNs) and 2D wave simulation.
-- 🌐 Actively involved in Scientific Machine Learning, particularly in the field of geosciences.
-- 💻 Working on projects related to Graph Neural Networks and diving into the world of DevOps with Docker and Ansible.
-- 🇮🇹
+- 🔍 **Research Focus**: Developing novel approaches for elastic wave equation modeling using Scientific Machine Learning (SciML)
+- 🏗️ **Applications**: Structural Health Monitoring (SHM) and damage identification through Full Waveform Inversion (FWI)
+- 🧠 **Methodologies**: 
+  - Physics-Informed Neural Networks (PINNs) for forward/inverse problems
+  - Operator learning with DeepONets and Fourier Neural Operators (FNOs)
+  - Hybrid approaches combining traditional PDE solvers with ML architectures
+- 🌍 **Fieldwork Synergy**: Bridging numerical simulations with seismic monitoring applications
 
 ##### BIO
+- 🏛️ **PhD Host**: Institute of Geosciences, CAU Kiel (Former MSc Thesis Host → Now PhD Candidate)
+- 🏢 **Industry Connection**: IoT Developer at **Kumva IoT** (Embedded Systems/Remote Sensing Synergy)
+- ⚙️ **Daily Stack**: `.py` (PyTorch/TensorFlow), `.c` (HPC Integration), `.ino` (Sensor Networks)
+- 🔭 **Research Interests**: 
+  - Inverse problems in non-linear systems
+  - Wave propagation modeling at scale
+  - ML-driven partial differential equation solvers
+- 🇮🇹 → 🇩🇪 Academic journey: Genoa (MSc AI) → Kiel (Geophysics PhD)
 
-- 🏢 Employed at **Kumva IoT**
-- ⚙️ Daily languages: `.py`, `.c`, `.ino`
-- 🌱 Passionate about **IoT, Machine Learning, Graph Neural Networks**, and DevOps.
-- 💬 Let's chat about anything related to **Django, Flask, Python, IoT, NoSQL, API Development**.
-- 📫 Connect with me on Twitter: [twitter.com/mustajabhannan](https://twitter.com/mustajabhannan)
-- ⚡️ Fun fact: I'm a devoted James Bond fan.
-- 📧 To discuss opportunities, drop me an email at: [hannanmustajab@icloud.com](mailto:hannanmustajab@icloud.com)
+##### COLLABORATE
+- 💬 Let's discuss **wave-based inverse problems**, **neural operators**, or **ML-for-PDEs** architectures
+- 📫 Reach me via: 
+  - Twitter: [@mustajabhannan](https://twitter.com/mustajabhannan) 
+  - Email: [hannanmustajab@icloud.com](mailto:hannanmustajab@icloud.com)
+- 🚀 **Open For**: Research collaborations, industrial applications of wave physics ML, conference talks
+
+⚡ **Fun Fact**: My James Bond fandom extends to building gadget-inspired IoT devices 🕶️
